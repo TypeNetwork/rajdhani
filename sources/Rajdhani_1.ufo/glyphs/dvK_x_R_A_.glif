@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvKx_RA" format="2">
   <advance width="731"/>
+  <anchor x="422" y="623" name="abvm.bindu"/>
   <anchor x="422" y="623" name="abvm.e"/>
   <anchor x="308" y="0" name="blwm.u"/>
-  <anchor x="422" y="0" name="blwm.vr"/>
-  <anchor x="422" y="623" name="abvm.bindu"/>
-  <anchor x="308" y="0" name="blwm.virama"/>
   <anchor x="308" y="0" name="blwm.uu"/>
+  <anchor x="308" y="0" name="blwm.virama"/>
+  <anchor x="422" y="0" name="blwm.vr"/>
   <outline>
     <component base="dvK_RA"/>
     <component base="dvNukta" xOffset="532" yOffset="-66"/>

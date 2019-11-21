@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvD_RA" format="2">
   <advance width="490"/>
-  <anchor x="391" y="623" name="abvm.e"/>
   <anchor x="264" y="623" name="abvm.bindu"/>
+  <anchor x="391" y="623" name="abvm.e"/>
   <anchor x="381" y="0" name="blwm.u"/>
   <anchor x="381" y="0" name="blwm.uu"/>
   <anchor x="381" y="0" name="blwm.virama"/>
@@ -96,7 +96,9 @@
       <point x="220" y="-28"/>
       <point x="225" y="-24"/>
       <point x="230" y="-19" type="curve" smooth="yes"/>
-      <point x="383" y="135" type="line"/>
+      <point x="281" y="32"/>
+      <point x="332" y="84"/>
+      <point x="383" y="135" type="curve"/>
     </contour>
   </outline>
 </glyph>

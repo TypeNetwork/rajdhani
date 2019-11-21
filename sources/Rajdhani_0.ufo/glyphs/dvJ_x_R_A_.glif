@@ -90,7 +90,9 @@
       <point x="240" y="-24"/>
       <point x="245" y="-20"/>
       <point x="250" y="-15" type="curve" smooth="yes"/>
-      <point x="441" y="176" type="line"/>
+      <point x="314" y="49"/>
+      <point x="377" y="112"/>
+      <point x="441" y="176" type="curve"/>
     </contour>
     <component base="dvNukta" xOffset="138" yOffset="46"/>
   </outline>

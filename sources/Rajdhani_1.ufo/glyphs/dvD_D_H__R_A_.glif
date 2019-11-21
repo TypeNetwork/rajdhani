@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvDDH_RA" format="2">
   <advance width="487"/>
+  <anchor x="322" y="623" name="abvm.bindu"/>
   <anchor x="424" y="623" name="abvm.e"/>
   <anchor x="209" y="-147" name="blwm.u"/>
-  <anchor x="315" y="-147" name="blwm.vr"/>
-  <anchor x="322" y="623" name="abvm.bindu"/>
-  <anchor x="198" y="-70" name="blwm.virama"/>
   <anchor x="190" y="-156" name="blwm.uu"/>
+  <anchor x="198" y="-70" name="blwm.virama"/>
+  <anchor x="315" y="-147" name="blwm.vr"/>
   <outline>
-    <component base="dvDDHA"/>
     <component base="dvRashtrasign" xOffset="530" yOffset="104"/>
+    <component base="dvDDHA"/>
   </outline>
 </glyph>

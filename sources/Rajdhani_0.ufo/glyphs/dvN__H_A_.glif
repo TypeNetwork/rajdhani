@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvN_HA" format="2">
   <advance width="721"/>
-  <anchor x="623" y="623" name="abvm.e"/>
   <anchor x="507" y="623" name="abvm.bindu"/>
+  <anchor x="623" y="623" name="abvm.e"/>
   <anchor x="484" y="-100" name="blwm.u"/>
   <anchor x="458" y="-100" name="blwm.uu"/>
   <anchor x="474" y="-40" name="blwm.virama"/>

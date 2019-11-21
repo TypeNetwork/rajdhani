@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvD_VA" format="2">
   <advance width="483"/>
+  <anchor x="289" y="623" name="abvm.bindu"/>
   <anchor x="427" y="623" name="abvm.e"/>
   <anchor x="210" y="-234" name="blwm.u"/>
-  <anchor x="299" y="-234" name="blwm.vr"/>
-  <anchor x="289" y="623" name="abvm.bindu"/>
-  <anchor x="178" y="-159" name="blwm.virama"/>
   <anchor x="168" y="-244" name="blwm.uu"/>
+  <anchor x="178" y="-159" name="blwm.virama"/>
+  <anchor x="299" y="-234" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="432" y="47" type="line"/>

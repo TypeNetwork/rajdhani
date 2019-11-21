@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvK_TTA" format="2">
   <advance width="972"/>
+  <anchor x="803" y="623" name="abvm.bindu"/>
   <anchor x="892" y="623" name="abvm.e"/>
   <anchor x="706" y="-24" name="blwm.u"/>
-  <anchor x="812" y="-24" name="blwm.vr"/>
-  <anchor x="803" y="623" name="abvm.bindu"/>
-  <anchor x="674" y="52" name="blwm.virama"/>
   <anchor x="668" y="-34" name="blwm.uu"/>
+  <anchor x="674" y="52" name="blwm.virama"/>
+  <anchor x="812" y="-24" name="blwm.vr"/>
   <outline>
     <component base="dvK"/>
     <component base="dvTTA" xOffset="507"/>

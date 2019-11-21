@@ -2,7 +2,7 @@
 <glyph name="dvB_YA" format="2">
   <advance width="883"/>
   <outline>
-    <component base="dvYA" xOffset="301"/>
     <component base="dvB"/>
+    <component base="dvYA" xOffset="301"/>
   </outline>
 </glyph>

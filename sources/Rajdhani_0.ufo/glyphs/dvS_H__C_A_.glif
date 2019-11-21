@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvSH_CA" format="2">
   <advance width="934"/>
+  <anchor x="579" y="623" name="abvm.bindu"/>
+  <anchor x="579" y="623" name="abvm.e"/>
+  <anchor x="462" y="-240" name="blwm.u"/>
+  <anchor x="462" y="-240" name="blwm.uu"/>
+  <anchor x="462" y="-240" name="blwm.virama"/>
+  <anchor x="579" y="-240" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="77" y="282" type="line"/>

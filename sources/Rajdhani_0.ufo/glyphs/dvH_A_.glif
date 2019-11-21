@@ -2,8 +2,8 @@
 <glyph name="dvHA" format="2">
   <advance width="486"/>
   <unicode hex="0939"/>
-  <anchor x="388" y="623" name="abvm.e"/>
   <anchor x="272" y="623" name="abvm.bindu"/>
+  <anchor x="388" y="623" name="abvm.e"/>
   <anchor x="249" y="-100" name="blwm.u"/>
   <anchor x="223" y="-100" name="blwm.uu"/>
   <anchor x="239" y="-40" name="blwm.virama"/>

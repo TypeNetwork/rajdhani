@@ -2,12 +2,12 @@
 <glyph name="dvHA" format="2">
   <advance width="463"/>
   <unicode hex="0939"/>
+  <anchor x="281" y="623" name="abvm.bindu"/>
   <anchor x="408" y="623" name="abvm.e"/>
   <anchor x="198" y="-102" name="blwm.u"/>
-  <anchor x="322" y="-102" name="blwm.vr"/>
-  <anchor x="281" y="623" name="abvm.bindu"/>
-  <anchor x="192" y="-27" name="blwm.virama"/>
   <anchor x="180" y="-112" name="blwm.uu"/>
+  <anchor x="192" y="-27" name="blwm.virama"/>
+  <anchor x="322" y="-102" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="282" y="519" type="line"/>

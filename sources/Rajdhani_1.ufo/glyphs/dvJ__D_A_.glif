@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvJ_DA" format="2">
   <advance width="811"/>
+  <anchor x="639" y="623" name="abvm.bindu"/>
   <anchor x="755" y="623" name="abvm.e"/>
   <anchor x="645" y="0" name="blwm.u"/>
-  <anchor x="760" y="0" name="blwm.vr"/>
-  <anchor x="639" y="623" name="abvm.bindu"/>
-  <anchor x="645" y="20" name="blwm.virama"/>
   <anchor x="645" y="0" name="blwm.uu"/>
+  <anchor x="645" y="20" name="blwm.virama"/>
+  <anchor x="760" y="0" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="371" y="519" type="line"/>

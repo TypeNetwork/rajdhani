@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvDA_mvR" format="2">
   <advance width="361"/>
+  <anchor x="240" y="623" name="abvm.bindu"/>
+  <anchor x="311" y="623" name="abvm.e"/>
   <outline>
     <contour>
       <point x="313" y="29" type="line"/>

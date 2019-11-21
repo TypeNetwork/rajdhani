@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvPH_NA" format="2">
   <advance width="1034"/>
+  <anchor x="436" y="623" name="abvm.bindu"/>
   <anchor x="436" y="623" name="abvm.e"/>
   <anchor x="319" y="0" name="blwm.u"/>
-  <anchor x="436" y="0" name="blwm.vr"/>
-  <anchor x="436" y="623" name="abvm.bindu"/>
-  <anchor x="319" y="0" name="blwm.virama"/>
   <anchor x="319" y="0" name="blwm.uu"/>
+  <anchor x="319" y="0" name="blwm.virama"/>
+  <anchor x="436" y="0" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="231" y="258" type="line"/>

@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvL_DDA" format="2">
   <advance width="930"/>
-  <anchor x="832" y="623" name="abvm.e"/>
   <anchor x="714" y="623" name="abvm.bindu"/>
+  <anchor x="832" y="623" name="abvm.e"/>
   <anchor x="699" y="-60" name="blwm.u"/>
   <anchor x="667" y="-60" name="blwm.uu"/>
   <anchor x="684" y="0" name="blwm.virama"/>

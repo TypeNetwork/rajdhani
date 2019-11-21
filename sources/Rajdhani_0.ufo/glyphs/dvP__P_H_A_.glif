@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvP_PHA" format="2">
   <advance width="997"/>
-  <anchor x="650" y="623" name="abvm.e"/>
   <anchor x="650" y="623" name="abvm.bindu"/>
+  <anchor x="650" y="623" name="abvm.e"/>
   <anchor x="621" y="0" name="blwm.u"/>
   <anchor x="621" y="0" name="blwm.uu"/>
   <anchor x="621" y="0" name="blwm.virama"/>

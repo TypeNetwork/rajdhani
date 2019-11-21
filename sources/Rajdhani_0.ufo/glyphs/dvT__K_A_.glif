@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvT_KA" format="2">
   <advance width="995"/>
-  <anchor x="648" y="623" name="abvm.e"/>
   <anchor x="648" y="623" name="abvm.bindu"/>
+  <anchor x="648" y="623" name="abvm.e"/>
   <anchor x="618" y="0" name="blwm.u"/>
   <anchor x="618" y="0" name="blwm.uu"/>
   <anchor x="618" y="0" name="blwm.virama"/>

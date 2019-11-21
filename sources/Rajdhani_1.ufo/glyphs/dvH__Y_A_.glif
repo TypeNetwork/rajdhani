@@ -2,9 +2,9 @@
 <glyph name="dvH_YA" format="2">
   <advance width="790"/>
   <anchor x="613" y="-171" name="blwm.u"/>
-  <anchor x="730" y="-171" name="blwm.vr"/>
-  <anchor x="613" y="-171" name="blwm.virama"/>
   <anchor x="613" y="-171" name="blwm.uu"/>
+  <anchor x="613" y="-171" name="blwm.virama"/>
+  <anchor x="730" y="-171" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="498" y="623" type="line"/>

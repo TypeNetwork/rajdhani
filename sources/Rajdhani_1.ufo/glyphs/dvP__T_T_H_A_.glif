@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvP_TTHA" format="2">
   <advance width="500"/>
+  <anchor x="304" y="623" name="abvm.bindu"/>
   <anchor x="414" y="623" name="abvm.e"/>
   <anchor x="232" y="-85" name="blwm.u"/>
-  <anchor x="316" y="-85" name="blwm.vr"/>
-  <anchor x="304" y="623" name="abvm.bindu"/>
-  <anchor x="189" y="-22" name="blwm.virama"/>
   <anchor x="177" y="-95" name="blwm.uu"/>
+  <anchor x="189" y="-22" name="blwm.virama"/>
+  <anchor x="316" y="-85" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="182" y="519" type="line"/>

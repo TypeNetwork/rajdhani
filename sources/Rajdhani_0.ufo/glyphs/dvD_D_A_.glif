@@ -2,8 +2,8 @@
 <glyph name="dvDDA" format="2">
   <advance width="480"/>
   <unicode hex="0921"/>
-  <anchor x="382" y="623" name="abvm.e"/>
   <anchor x="264" y="623" name="abvm.bindu"/>
+  <anchor x="382" y="623" name="abvm.e"/>
   <anchor x="249" y="-60" name="blwm.u"/>
   <anchor x="217" y="-60" name="blwm.uu"/>
   <anchor x="234" y="0" name="blwm.virama"/>

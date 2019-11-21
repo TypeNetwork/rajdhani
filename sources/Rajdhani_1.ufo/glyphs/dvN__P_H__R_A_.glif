@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvN_PH_RA" format="2">
   <advance width="992"/>
+  <anchor x="683" y="623" name="abvm.bindu"/>
   <anchor x="683" y="623" name="abvm.e"/>
   <anchor x="566" y="0" name="blwm.u"/>
-  <anchor x="683" y="0" name="blwm.vr"/>
-  <anchor x="683" y="623" name="abvm.bindu"/>
-  <anchor x="566" y="0" name="blwm.virama"/>
   <anchor x="566" y="0" name="blwm.uu"/>
+  <anchor x="566" y="0" name="blwm.virama"/>
+  <anchor x="683" y="0" name="blwm.vr"/>
   <outline>
     <component base="dvN"/>
     <component base="dvPH_RA" xOffset="242"/>

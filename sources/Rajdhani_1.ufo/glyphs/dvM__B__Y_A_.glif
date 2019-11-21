@@ -52,7 +52,7 @@
       <point x="176" y="228"/>
       <point x="184" y="228" type="curve"/>
     </contour>
-    <component base="dvYA" xOffset="578"/>
     <component base="dvB" xOffset="277"/>
+    <component base="dvYA" xOffset="578"/>
   </outline>
 </glyph>

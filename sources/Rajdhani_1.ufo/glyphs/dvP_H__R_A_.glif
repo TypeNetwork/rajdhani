@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dvPH_RA" format="2">
   <advance width="750"/>
+  <anchor x="441" y="623" name="abvm.bindu"/>
   <anchor x="441" y="623" name="abvm.e"/>
   <anchor x="324" y="0" name="blwm.u"/>
-  <anchor x="441" y="0" name="blwm.vr"/>
-  <anchor x="441" y="623" name="abvm.bindu"/>
-  <anchor x="324" y="0" name="blwm.virama"/>
   <anchor x="324" y="0" name="blwm.uu"/>
+  <anchor x="324" y="0" name="blwm.virama"/>
+  <anchor x="441" y="0" name="blwm.vr"/>
   <outline>
     <contour>
       <point x="231" y="258" type="line"/>
@@ -97,7 +97,9 @@
       <point x="86" y="170"/>
       <point x="168" y="170" type="curve"/>
       <point x="175" y="170" type="line"/>
-      <point x="180" y="170" type="line"/>
+      <point x="177" y="170.0"/>
+      <point x="178" y="170.0"/>
+      <point x="180" y="170" type="curve"/>
       <point x="180" y="166" type="line"/>
       <point x="180" y="166"/>
       <point x="141" y="148"/>
