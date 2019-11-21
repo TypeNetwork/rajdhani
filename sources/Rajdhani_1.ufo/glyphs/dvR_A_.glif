@@ -1,17 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvRA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvRA" format="2">
   <advance width="339"/>
   <unicode hex="0930"/>
+  <anchor x="286" y="623" name="abvm.e"/>
+  <anchor x="230" y="623" name="abvm.bindu"/>
+  <anchor x="133" y="21" name="blwm.virama"/>
   <outline>
-    <contour>
-      <point x="286" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="230" y="623" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="133" y="21" type="move" name="blwm.virama"/>
-    </contour>
     <contour>
       <point x="169" y="373" type="line"/>
       <point x="169" y="350"/>

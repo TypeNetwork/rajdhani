@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvD_B_RA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_B_RA" format="2">
   <advance width="483"/>
+  <anchor x="427" y="623" name="abvm.e"/>
+  <anchor x="210" y="-328" name="blwm.u"/>
+  <anchor x="311" y="623" name="abvm.bindu"/>
+  <anchor x="174" y="-253" name="blwm.virama"/>
+  <anchor x="174" y="-338" name="blwm.uu"/>
   <outline>
-    <contour>
-      <point x="427" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="210" y="-328" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="311" y="623" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="174" y="-253" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="174" y="-338" type="move" name="blwm.uu"/>
-    </contour>
     <contour>
       <point x="327" y="122" type="line"/>
       <point x="327" y="-18" type="line" smooth="yes"/>

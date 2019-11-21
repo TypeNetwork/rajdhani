@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvHA_mvR" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvHA_mvR" format="2">
   <advance width="576"/>
+  <anchor x="438" y="623" name="abvm.e"/>
+  <anchor x="438" y="623" name="abvm.bindu"/>
   <outline>
-    <contour>
-      <point x="438" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="438" y="623" type="move" name="abvm.bindu"/>
-    </contour>
     <contour>
       <point x="312" y="519" type="line"/>
       <point x="319" y="518"/>

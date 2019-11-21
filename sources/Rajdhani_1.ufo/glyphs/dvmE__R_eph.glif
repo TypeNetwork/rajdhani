@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmE_Reph" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmE_Reph" format="2">
+  <anchor x="-49" y="623" name="_abvm.e"/>
   <outline>
-    <contour>
-      <point x="-49" y="623" type="move" name="_abvm.e"/>
-    </contour>
     <contour>
       <point x="-153" y="752" type="line"/>
       <point x="-221" y="875" type="line" smooth="yes"/>

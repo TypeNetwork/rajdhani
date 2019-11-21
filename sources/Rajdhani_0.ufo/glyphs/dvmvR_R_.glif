@@ -1,10 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvmvRR" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvmvRR" format="2">
+  <anchor x="-100" y="0" name="_blwm.vr"/>
   <outline>
-    <contour>
-      <point x="-100" y="0" type="move" name="_blwm.vr"/>
-    </contour>
     <contour>
       <point x="-115" y="-375" type="line" smooth="yes"/>
       <point x="-64" y="-375"/>

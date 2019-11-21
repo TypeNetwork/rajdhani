@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvNY_CA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNY_CA" format="2">
   <advance width="963"/>
+  <anchor x="863" y="623" name="abvm.e"/>
+  <anchor x="863" y="623" name="abvm.bindu"/>
   <outline>
-    <contour>
-      <point x="863" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="863" y="623" type="move" name="abvm.bindu"/>
-    </contour>
     <contour>
       <point x="290" y="313" type="curve"/>
       <point x="290" y="343" type="line"/>

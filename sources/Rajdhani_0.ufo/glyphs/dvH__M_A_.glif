@@ -1,19 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvH_MA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvH_MA" format="2">
   <advance width="747"/>
+  <anchor x="617" y="-36" name="blwm.u"/>
+  <anchor x="617" y="-36" name="blwm.uu"/>
+  <anchor x="617" y="-36" name="blwm.virama"/>
+  <anchor x="647" y="-36" name="blwm.vr"/>
   <outline>
-    <contour>
-      <point x="617" y="-36" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="617" y="-36" type="move" name="blwm.uu"/>
-    </contour>
-    <contour>
-      <point x="617" y="-36" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="647" y="-36" type="move" name="blwm.vr"/>
-    </contour>
     <contour>
       <point x="483" y="623" type="line"/>
       <point x="-1" y="623" type="line" smooth="yes"/>

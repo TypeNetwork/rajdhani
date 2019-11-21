@@ -1,11 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvAnusvara" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvAnusvara" format="2">
   <unicode hex="0902"/>
+  <anchor x="-100" y="623" name="_abvm.bindu"/>
   <outline>
-    <contour>
-      <point x="-100" y="623" type="move" name="_abvm.bindu"/>
-    </contour>
     <contour>
       <point x="-100" y="741" type="curve"/>
       <point x="-100" y="769" type="line"/>

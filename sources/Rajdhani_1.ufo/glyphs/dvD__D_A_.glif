@@ -1,13 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvD_DA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvD_DA" format="2">
   <advance width="491"/>
+  <anchor x="408" y="623" name="abvm.e"/>
+  <anchor x="305" y="623" name="abvm.bindu"/>
   <outline>
-    <contour>
-      <point x="408" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="305" y="623" type="move" name="abvm.bindu"/>
-    </contour>
     <contour>
       <point x="111" y="243" type="line"/>
       <point x="74" y="231"/>

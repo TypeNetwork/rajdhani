@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvNY_CHA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvNY_CHA" format="2">
   <advance width="873"/>
+  <anchor x="812" y="623" name="abvm.e"/>
+  <anchor x="513" y="-18" name="blwm.u"/>
+  <anchor x="652" y="-18" name="blwm.vr"/>
+  <anchor x="641" y="623" name="abvm.bindu"/>
+  <anchor x="531" y="58" name="blwm.virama"/>
+  <anchor x="531" y="-28" name="blwm.uu"/>
   <outline>
-    <contour>
-      <point x="812" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="513" y="-18" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="652" y="-18" type="move" name="blwm.vr"/>
-    </contour>
-    <contour>
-      <point x="641" y="623" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="531" y="58" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="531" y="-28" type="move" name="blwm.uu"/>
-    </contour>
     <contour>
       <point x="375" y="519" type="line"/>
       <point x="393" y="519"/>

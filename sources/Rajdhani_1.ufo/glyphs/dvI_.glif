@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvI" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvI" format="2">
   <advance width="467"/>
   <unicode hex="0907"/>
+  <anchor x="297" y="623" name="abvm.bindu"/>
   <outline>
-    <contour>
-      <point x="297" y="623" type="move" name="abvm.bindu"/>
-    </contour>
     <contour>
       <point x="277" y="198" type="line"/>
       <point x="297" y="198"/>

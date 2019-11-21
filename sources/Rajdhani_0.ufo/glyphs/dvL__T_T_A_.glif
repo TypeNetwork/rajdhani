@@ -1,25 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvL_TTA" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_TTA" format="2">
   <advance width="941"/>
+  <anchor x="826" y="623" name="abvm.e"/>
+  <anchor x="735" y="623" name="abvm.bindu"/>
+  <anchor x="730" y="-16" name="blwm.u"/>
+  <anchor x="690" y="-16" name="blwm.uu"/>
+  <anchor x="690" y="41" name="blwm.virama"/>
+  <anchor x="765" y="-16" name="blwm.vr"/>
   <outline>
-    <contour>
-      <point x="826" y="623" type="move" name="abvm.e"/>
-    </contour>
-    <contour>
-      <point x="735" y="623" type="move" name="abvm.bindu"/>
-    </contour>
-    <contour>
-      <point x="730" y="-16" type="move" name="blwm.u"/>
-    </contour>
-    <contour>
-      <point x="690" y="-16" type="move" name="blwm.uu"/>
-    </contour>
-    <contour>
-      <point x="690" y="41" type="move" name="blwm.virama"/>
-    </contour>
-    <contour>
-      <point x="765" y="-16" type="move" name="blwm.vr"/>
-    </contour>
     <component base="dvL"/>
     <component base="dvTTA" xOffset="451"/>
   </outline>
