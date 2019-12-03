@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Rajdhani_1.ufo" familyname="Rajdhani" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Rajdhani_0.ufo" familyname="Rajdhani" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Rajdhani" stylename="regular" filename="instances/Rajdhani-Style_regular-test.ufo">
+      <location>
+        <dimension name="Weight" xvalue="206"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Rajdhani" stylename="medium" filename="instances/Rajdhani-Style_medium-test.ufo">
+      <location>
+        <dimension name="Weight" xvalue="443"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Rajdhani" stylename="semibold" filename="instances/Rajdhani-Style_semibold-test.ufo">
+      <location>
+        <dimension name="Weight" xvalue="690"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>
