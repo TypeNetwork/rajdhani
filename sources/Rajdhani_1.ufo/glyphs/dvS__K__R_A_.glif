@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvS_K_RA" format="2">
+  <advance width="1099"/>
+  <anchor x="790" y="623" name="abvm.bindu"/>
+  <anchor x="790" y="623" name="abvm.e"/>
+  <anchor x="676" y="0" name="blwm.u"/>
+  <anchor x="676" y="0" name="blwm.uu"/>
+  <anchor x="676" y="0" name="blwm.virama"/>
+  <anchor x="790" y="0" name="blwm.vr"/>
+  <outline>
+    <component base="dvS"/>
+    <component base="dvK_RA" xOffset="368"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvPH_TTA" format="2">
+  <advance width="1009"/>
+  <anchor x="803" y="623" name="abvm.bindu"/>
+  <anchor x="894" y="623" name="abvm.e"/>
+  <anchor x="798" y="-16" name="blwm.u"/>
+  <anchor x="758" y="-16" name="blwm.uu"/>
+  <anchor x="758" y="41" name="blwm.virama"/>
+  <anchor x="833" y="-16" name="blwm.vr"/>
+  <outline>
+    <component base="dvPH"/>
+    <component base="dvTTA" xOffset="519"/>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dvL_TTA" format="2">
+  <advance width="886"/>
+  <anchor x="727" y="623" name="abvm.bindu"/>
+  <anchor x="816" y="623" name="abvm.e"/>
+  <anchor x="630" y="-24" name="blwm.u"/>
+  <anchor x="592" y="-34" name="blwm.uu"/>
+  <anchor x="598" y="52" name="blwm.virama"/>
+  <anchor x="736" y="-24" name="blwm.vr"/>
+  <outline>
+    <component base="dvL"/>
+    <component base="dvTTA" xOffset="421"/>
+  </outline>
+</glyph>
